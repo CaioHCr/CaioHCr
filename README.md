@@ -7,5 +7,3 @@ Also running independent projects: AI Vision pipelines, marketing automation, an
 Next up: data governance and AI security.
 
 Stack: Python, n8n, Docker, PostgreSQL, LLM APIs (OpenAI, Anthropic, OpenRouter), MCP, agent orchestration, data pipelines.
-
-📫 LinkedIn
