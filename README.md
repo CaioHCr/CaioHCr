@@ -4,6 +4,4 @@ Currently @ The ROSTR Group, working on data enrichment at scale, agent orchestr
 
 Also running independent projects: AI Vision pipelines, marketing automation, and secure data architecture (RLS hardening at the database layer).
 
-Next up: data governance and AI security.
-
 Stack: Python, n8n, Docker, PostgreSQL, LLM APIs (OpenAI, Anthropic, OpenRouter), MCP, agent orchestration, data pipelines.
